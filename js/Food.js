@@ -55,7 +55,7 @@ class Food{
         background(bedroom,550,550);
     }
     garden(){
-        garden(garden,550,550);
+        background(garden,550,550);
     }
     washroom(){
         background(washroom,550,550);
